@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # <Your-Project-Title>
+=======
+# USYD Bootcamp Challenge-1
+>>>>>>> f912c518d61c30cc2cd9e54b871bff510223cd75
 
 ## Description
 
