@@ -24,11 +24,12 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* This dictates the placement of the nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -69,12 +70,14 @@ figure {
     margin-left: 25px;
 }
 
+/* Created main section for css for semantic elements */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Created aside section for css for semantic elements */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +89,8 @@ aside {
     background-color: #2589bd;
 }
 
+/*For lines 94 - 126
+ Placed benefits altogether to reduce redundancy, and better readability */
 .benefit-lead,  .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,6 +125,7 @@ aside {
     font-size: 36px;
 }
 
+/* Created footer for css for semantic elements */
 footer {
     padding: 30px;
     clear: both;
